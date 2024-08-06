@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0053-maximum-subarray) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/3242-count-elements-with-maximum-frequency) |
+## Simulation
+|  |
+| ------- |
+| [3220-count-tested-devices-after-test-operations](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/3220-count-tested-devices-after-test-operations) |
 <!---LeetCode Topics End-->
