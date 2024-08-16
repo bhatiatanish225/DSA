@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0053-maximum-subarray) |
 | [0455-assign-cookies](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0455-assign-cookies) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
