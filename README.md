@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0455-assign-cookies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0322-coin-change) |
 ## Linked List
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
