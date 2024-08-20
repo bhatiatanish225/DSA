@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0322-coin-change](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0455-assign-cookies) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/1046-max-consecutive-ones-iii) |
@@ -86,5 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/1046-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
