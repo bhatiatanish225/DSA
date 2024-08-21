@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0455-assign-cookies) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/1046-max-consecutive-ones-iii) |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0268-missing-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
@@ -88,9 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/bhatiatanish225/DSA-Challenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
